@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
+	"clientFolder": "VexaOTS",
 	"newClientUrl" : "https://vexaots.zapto.org/launcher/VexaLauncher.zip",
 	"clientExecutable": "client.exe"
 }

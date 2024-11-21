@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "VexaOTS",
-	"newClientUrl" : "https://vexaots.zapto.org/launcher/VexaLauncher.zip",
+	"newClientUrl" : "https://vexaots.zapto.org/launcher/VexaOTS.zip",
 	"clientExecutable": "client.exe"
 }
